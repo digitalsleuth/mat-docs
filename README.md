@@ -16,3 +16,12 @@ The foundation for m.a.t. is a Ubuntu 18.04 or 20.04 LTS installation, either se
 
 Within this documentation you will find a set of categories for tool usage, and a list of the tools themselves, to include their original source, basic usage commands, and what they're good at.
 
+## Methods of Usage
+
+There are a few ways that m.a.t. can be used:
+
+* Using a [docker](https://hub.docker.com/r/digitalsleuth/mat-distro) image
+* Building your own VM with the [m.a.t. CLI](https://github.com/digitalsleuth/mat-cli)
+* Installing m.a.t. into a Windows Subsystem for Linux instance
+
+Due to the size of the installation once complete, a pre-built VM is not currently available - but it will be soon!
